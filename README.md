@@ -1,7 +1,8 @@
 # Vehicle Price Prediction
 > Data science project using different Machine Learning algorithms.
-
 > The dataset can be found [_here_](https://drive.google.com/file/d/1ZqmuDjNJjMj7hDivgsukOjrscry-KGpz/view).
+
+> Moreover, there is a *light* demo [_here_](https://share.streamlit.io/dimitriosdelegkos/vehicle-streamlit/app.py).
 
 ## Overview
 The **goal** of this project is to make a model which can predict the price of a vehicle, given a sequence of features.
