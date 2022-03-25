@@ -1,6 +1,6 @@
 # Vehicle Price Prediction
 > Data science project using different Machine Learning algorithms.
-> The dataset can be found [_here_](https://drive.google.com/file/d/1ZqmuDjNJjMj7hDivgsukOjrscry-KGpz/view).
+> The full dataset can be found [_here_](https://drive.google.com/file/d/1ZqmuDjNJjMj7hDivgsukOjrscry-KGpz/view).
 
 > Moreover, there is a *light* demo [_here_](https://share.streamlit.io/dimitriosdelegkos/vehicle-streamlit/app.py).
 
