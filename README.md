@@ -1,7 +1,7 @@
 # Vehicle Price Prediction
 > Data science project using Linear Regression
 
-> Live demo [_here_](https://www.example.com)!!!!!!!!!!!!!.
+> The dataset can be found [_here_](https://drive.google.com/file/d/1ZqmuDjNJjMj7hDivgsukOjrscry-KGpz/view)
 
 ## Overview
 The **goal** of this project is to make a model which can predict the price of a vehicle, given a sequence of features.
