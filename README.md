@@ -1,5 +1,5 @@
 # Vehicle Price Prediction
-> Data science project using Linear Regression
+> Data science project using different Machine Learning algorithms.
 
 > The dataset can be found [_here_](https://drive.google.com/file/d/1ZqmuDjNJjMj7hDivgsukOjrscry-KGpz/view).
 
